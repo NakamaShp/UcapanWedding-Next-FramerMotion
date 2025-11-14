@@ -36,15 +36,15 @@ export default function FinalTeamClosingSection() {
         <div className="bg-[#2a2655]/70 p-8 sm:p-12 rounded-3xl shadow-2xl border border-purple-600/50">
             
             <p className="text-2xl font-semibold text-pink-300 mb-6">
-                Kepada Leader Terbaik Kami, Anna & Dika
+                Kepada Owner Terbaik, Anna & Dika
             </p>
             
             <blockquote className="italic text-xl md:text-2xl text-gray-200 leading-relaxed border-l-4 border-teal-400 pl-4">
                 Happy Wedding! Kami segenap tim ikut merasakan kebahagiaan yang luar biasa.
                 <br/><br/>
-                Terima kasih sudah menjadi leader yang suportif dan inspiratif. Sekarang, tantangan baru menanti, yaitu memimpin bahtera rumah tangga! Kami yakin kalian akan menjadi tim terbaik yang saling mendukung dalam segala hal.
+                Terima kasih sudah menjadi Owner yang suportif dan inspiratif. Sekarang, tantangan baru menanti, yaitu memimpin bahtera rumah tangga! Kami yakin kalian akan menjadi tim terbaik yang saling mendukung dalam segala hal.
                 <br/><br/>
-                Semoga cinta kalian terus bertumbuh, dipenuhi canda tawa, dan selalu harmonis. Ditunggu traktiran makan-makan leader baru!
+                Semoga cinta kalian terus bertumbuh, dipenuhi canda tawa, dan selalu harmonis. 
                 
             </blockquote>
             

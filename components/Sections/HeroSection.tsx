@@ -134,7 +134,7 @@ export default function HeroSection() {
                                        transition-opacity duration-300 group-hover:opacity-10 group-hover:blur-md"
                         />
                         {/* Teks Tombol diubah agar lebih sesuai dengan navigasi jika perlu */}
-                        {isPlaying ? "Pause Music" : "Buka Undangan"} 
+                        {isPlaying ? "Pause Music" : "Play Music"} 
                         <ArrowDown className="ml-2 h-5 w-5 transition-transform duration-300 group-hover:translate-y-1" />
                     </Button>
                 </motion.div>
