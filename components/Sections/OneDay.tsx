@@ -1,7 +1,7 @@
 // components/ChoiceSection.tsx
 "use client"; // Dipertahankan karena ini adalah praktik umum di Next.js App Router
 
-import React from "react";
+import React from "react"; 
 // ❌ Import motion dan Variants dihapus
 
 // Data untuk bagian "One Day" (4 Gambar)
@@ -19,7 +19,8 @@ const dayOneImages: string[] = [
   "/choice/dayone/3.jpg",
 ];
 
-const ChoiceSection: React.FC = () => {
+// Menggunakan gaya 'export default function' (Gaya 1)
+export default function ChoiceSection() {
   return (
     <section
       id="choice"
@@ -94,6 +95,4 @@ const ChoiceSection: React.FC = () => {
       </div>
     </section>
   );
-};
-
-export default ChoiceSection;
+}
