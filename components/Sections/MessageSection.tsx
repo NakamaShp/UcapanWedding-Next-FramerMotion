@@ -152,8 +152,6 @@ export default function PersonalMessageSection() {
     >
       <div className="absolute -top-1/4 -right-1/4 w-[300px] h-[300px] animate-pulse" />
 
-     
-
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
         {people.map((person, idx) => (
           <div

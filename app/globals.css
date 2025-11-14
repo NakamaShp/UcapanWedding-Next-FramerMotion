@@ -47,7 +47,7 @@ html {
   scroll-behavior: smooth;
   height: 100%;
   /* Menghilangkan scrollbar pada elemen html */
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 /* ... isi CSS lain di atas ... */
